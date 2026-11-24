@@ -5,7 +5,7 @@ Web開発まわりの注目記事をキュレーションした RSS フィード
 ## 購読用 URL
 
 ```
-https://raw.githubusercontent.com/namosuke/web-develop-news/main/feed.xml
+https://namosuke.github.io/web-develop-news/feed.xml
 ```
 
 お使いの RSS リーダーにこの URL を登録してください。
@@ -13,5 +13,5 @@ https://raw.githubusercontent.com/namosuke/web-develop-news/main/feed.xml
 ## 内容について
 
 - Web標準・ブラウザ、フロントエンド、JavaScript / TypeScript、CSS、AI エージェント活用などの技術記事が中心です。
-- 各記事には日本語の要約と解説が付いています。
+- 各記事には日本語の要約が付いています。
 - フィードは自動で更新されます（新しい記事がシェアされると追加されます）。
