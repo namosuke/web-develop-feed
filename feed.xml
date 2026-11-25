@@ -3,9 +3,9 @@
   <channel>
     <title>Web Develop Feed</title>
     <link>https://github.com/namosuke/web-develop-feed</link>
-    <description>AI RSS リーダーのシェア欄から自動生成</description>
+    <description>Web開発まわりの注目記事をキュレーションしたフィード。各記事に日本語の要約が付いています。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:35:56 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
       <title>Web Develop Feed</title>
