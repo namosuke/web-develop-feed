@@ -5,12 +5,68 @@
     <link>https://github.com/namosuke/web-develop-news</link>
     <description>AI RSS リーダーのシェア欄から自動生成</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:30:24 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-news/icon.png</url>
       <title>web-develop-news</title>
       <link>https://github.com/namosuke/web-develop-news</link>
     </image>
+
+    <item>
+      <title>FigmaのAI画像編集ツールで、オブジェクトをさらに素早く選択できます</title>
+      <link>https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpselect-objects-even-faster-with-figmas-ai-image-editing-tools</link>
+      <guid isPermaLink="true">https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpselect-objects-even-faster-with-figmas-ai-image-editing-tools</guid>
+      <pubDate>Sun, 22 Nov 2026 16:18:27 GMT</pubDate>
+      <description>AI画像編集ツール「領域を選択」で、画像内のオブジェクトをクリックするだけで選択・分離・消去できるようになった。手でトレースする必要がなくなる。macOSデスクトップアプリのみで利用可能。</description>
+    </item>
+
+    <item>
+      <title>タイポグラフィを飼いならす：モダンCSSリセットを作る</title>
+      <link>https://css-tricks.com/taming-typography-modern-css-reset/</link>
+      <guid isPermaLink="true">https://css-tricks.com/taming-typography-modern-css-reset/</guid>
+      <pubDate>Sun, 22 Nov 2026 16:17:13 GMT</pubDate>
+      <description>流動タイポグラフィや垂直リズム、ハイフネーション、可変フォントなど、モダンCSSの機能を使ったタイポグラフィ用のスタイルリセット「tidy-typography.css」の紹介。</description>
+    </item>
+
+    <item>
+      <title>Node.js 26から27（Alpha）での注目すべきV8の変更点</title>
+      <link>https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha</link>
+      <guid isPermaLink="true">https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha</guid>
+      <pubDate>Sun, 22 Nov 2026 16:16:24 GMT</pubDate>
+      <description>Node.js 27 Alpha で V8 が 14.6 から 15.6 に上がったことに伴う、注目すべき変更点の解説。新たに Math.sumPrecise()、Intl.Locale.prototype.variants、Iterator.prototype.join() / includes() / zip() / zipKeyed() が使えるようになった。一方で、Math の計算結果が最下位ビットで変わる、Math.random() の系列が変わる、structuredClone() と postMessage() のシリアライズ形式が変わり旧バージョンと互換性がなくなる、Array.prototype.sort() の内部アルゴリズム変更など、挙動が変わる点も多い。</description>
+    </item>
+
+    <item>
+      <title>CSSだけで横スクロールと見出し固定を両立！ 単一軸スクロールコンテナー</title>
+      <link>https://ics.media/entry/261104/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://ics.media/entry/261104/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 22 Nov 2026 16:13:06 GMT</pubDate>
+      <description>CSSだけで横スクロールと見出し固定を両立する、単一軸スクロールコンテナーの実装解説。</description>
+    </item>
+
+    <item>
+      <title>Chrome 157でHTML-in-Canvasが安定版に：2D・WebGL・WebGPU内にインタラクティブなDOMを描画</title>
+      <link>https://developer.chrome.com/blog/html-in-canvas</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/html-in-canvas</guid>
+      <pubDate>Sun, 22 Nov 2026 09:57:35 GMT</pubDate>
+      <description>Chrome 157でHTML-in-Canvas APIが安定版になった。canvas要素の子孫として置いたHTMLをそのまま描画でき、テキスト選択、コピー&amp;ペースト、右クリックメニュー、スクリーンリーダー対応、翻訳、自動入力、Find-in-Pageなどがcanvas内のコンテンツでもそのまま使える。2DコンテキストではdrawElementなどで描画し、WebGL/WebGPUではupdateElementGeometryでDOMの幾何を渡す。Three.js、PlayCanvas、Babylon.js、PixiJSがすでに対応している。</description>
+    </item>
+
+    <item>
+      <title>AI エージェントがデスクトップアプリを操作する CLI agent-desktop</title>
+      <link>https://azukiazusa.dev/blog/agent-desktop-computer-use-cli</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/agent-desktop-computer-use-cli</guid>
+      <pubDate>Tue, 03 Nov 2026 05:11:00 GMT</pubDate>
+      <description>agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作する。記事では基本的な使い方の確認に加え、SwiftUI 製の架空の経費アプリの動作確認を Claude Code に任せ、バグ発見から修正までを実行させている。</description>
+    </item>
+
+    <item>
+      <title>Cybozu Frontend Monthly #73</title>
+      <link>https://cybozu.github.io/frontend-monthly/posts/2026-11/</link>
+      <guid isPermaLink="true">https://cybozu.github.io/frontend-monthly/posts/2026-11/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>注目記事は3本：Oxlintの型-aware lintingのバックエンドに使えるようになったtsrs（TypeScriptのRust移植）による高速化、State of JavaScript 2026のサーベイ開始、Chromeが実験中のDecisions API（端末上のモデルが用意された選択肢から1つを選ぶ仕組み）。リンク集ではReact DevTools for agents、TanStack Redact、pnpm 12.21のlockfile形式変更、Arcの提供終了（2026年内）、State of HTML 2026、Cross-Origin Storage APIなどが紹介されている。</description>
+    </item>
 
   </channel>
 </rss>
