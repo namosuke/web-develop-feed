@@ -1,11 +1,11 @@
-# web-develop-news
+# Web Develop Feed
 
 Web開発まわりの注目記事をキュレーションした RSS フィードです。
 
 ## 購読用 URL
 
 ```
-https://namosuke.github.io/web-develop-news/feed.xml
+https://namosuke.github.io/web-develop-feed/feed.xml
 ```
 
 お使いの RSS リーダーにこの URL を登録してください。
