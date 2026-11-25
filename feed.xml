@@ -5,12 +5,68 @@
     <link>https://github.com/namosuke/web-develop-news</link>
     <description>AI RSS リーダーのシェア欄から自動生成</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:26:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:31:30 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-news/icon.png</url>
       <title>web-develop-news</title>
       <link>https://github.com/namosuke/web-develop-news</link>
     </image>
+
+    <item>
+      <title>Gemini in Chromeでエージェントスキルを構築・インポート</title>
+      <link>https://developer.chrome.com/blog/skills-in-gemini-in-chrome</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/skills-in-gemini-in-chrome</guid>
+      <pubDate>Tue, 24 Nov 2026 00:37:01 GMT</pubDate>
+      <description>Chrome 157からGemini in ChromeがSKILL.md形式のエージェントスキルに対応し、他ツールのスキルもインポート可能に。chrome://skillsで作成・編集・ダウンロードができる。</description>
+    </item>
+
+    <item>
+      <title>Cross-Origin Storage API の紹介</title>
+      <link>https://developer.chrome.com/blog/introducing-cross-origin-storage</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/introducing-cross-origin-storage</guid>
+      <pubDate>Tue, 24 Nov 2026 00:35:12 GMT</pubDate>
+      <description>同一のアセットを複数のサイトで共有できる Cross-Origin Storage API（COS）の提案を紹介する記事。コンテンツをハッシュで指定し、任意の URL から取得してサイトをまたいで共有する。AI モデルや Wasm、ゲームエンジン、大規模フォントなどの共有がユースケースとして挙げられている。</description>
+    </item>
+
+    <item>
+      <title>空間 CSS の紹介：開発者プレビュー</title>
+      <link>https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/</link>
+      <guid isPermaLink="true">https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/</guid>
+      <pubDate>Mon, 23 Nov 2026 13:20:09 GMT</pubDate>
+      <description>visionOS 27.3 向け Safari に、提案中の空間 CSS API の限定プレビューが搭載される。&lt;model&gt; 要素を通じて 3D オブジェクトを扱うことが中心。</description>
+    </item>
+
+    <item>
+      <title>SeznamはパスキーとRelated Origin Requestsで複数ドメインのサインインをどう統合したか</title>
+      <link>https://developer.chrome.com/blog/seznam-defragments-sign-in</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/seznam-defragments-sign-in</guid>
+      <pubDate>Mon, 23 Nov 2026 13:16:54 GMT</pubDate>
+      <description>チェコのSeznamが、FedCMとWebAuthn Related Origin Requestsを使い複数ドメインにまたがるサインインを統合した事例。1つのドメインで作ったパスキーが他ドメインでも使え、サインイン完了率が大きく改善した。</description>
+    </item>
+
+    <item>
+      <title>AWS Emulator で AWS SDK を使うコードをローカルでテストする</title>
+      <link>https://azukiazusa.dev/blog/aws-emulator-local-testing</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/aws-emulator-local-testing</guid>
+      <pubDate>Mon, 23 Nov 2026 13:14:42 GMT</pubDate>
+      <description>AWS公式のAWS Emulatorを使い、AWS SDK for JavaScript v3 + DynamoDBのコードをVitestでローカルテストする手順。Dockerで起動する。</description>
+    </item>
+
+    <item>
+      <title>Apple HomeView での Safari</title>
+      <link>https://webkit.org/blog/18608/safari-on-apple-homeview/</link>
+      <guid isPermaLink="true">https://webkit.org/blog/18608/safari-on-apple-homeview/</guid>
+      <pubDate>Mon, 23 Nov 2026 13:12:50 GMT</pubDate>
+      <description>Safari がまったく新しいプラットフォーム「Apple HomeView」で動き始めたことを伝える記事。</description>
+    </item>
+
+    <item>
+      <title>エージェントが作り、エージェントが使う Vercel の UI SDK</title>
+      <link>https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</guid>
+      <pubDate>Mon, 23 Nov 2026 13:11:02 GMT</pubDate>
+      <description>Vercel Labs が公開した UI SDK は、キーボード操作やフォーカス、ARIA などの振る舞いをフレームワーク非依存で提供するヘッドレス UI ライブラリ。AI エージェントをコンポーネントの作り手と UI の使い手の両方として扱う点が特徴で、記事では Claude Code にトランスファーリストを作らせ、エージェントブリッジから操作するまでを確認している。</description>
+    </item>
 
     <item>
       <title>3DでのデザインをFigmaでネイティブに行い、直接コードにリリース</title>
