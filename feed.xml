@@ -5,12 +5,68 @@
     <link>https://github.com/namosuke/web-develop-feed</link>
     <description>Web開発まわりの注目記事をキュレーションしたフィード。各記事に日本語の要約が付いています。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:05:53 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
       <title>Web Develop Feed</title>
       <link>https://github.com/namosuke/web-develop-feed</link>
     </image>
+
+    <item>
+      <title>3DでのデザインをFigmaでネイティブに行い、直接コードにリリース</title>
+      <link>https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpdesign-in-3d-natively-in-figma-and-ship-directly-to-code</link>
+      <guid isPermaLink="true">https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpdesign-in-3d-natively-in-figma-and-ship-directly-to-code</guid>
+      <pubDate>Wed, 25 Nov 2026 10:11:53 GMT</pubDate>
+      <description>Figmaの3Dトランスフォームで、キャンバス上でオブジェクトをXYZ軸に回転させ、そのままコードにリリースできる新エフェクト。</description>
+    </item>
+
+    <item>
+      <title>核融合データの正しい隠し方</title>
+      <link>https://blog.jxck.io/entries/2026-11-11/vivant.html</link>
+      <guid isPermaLink="true">https://blog.jxck.io/entries/2026-11-11/vivant.html</guid>
+      <pubDate>Wed, 25 Nov 2026 10:10:53 GMT</pubDate>
+      <description>ドラマ『VIVANT』の核融合データをめぐる隠匿シーンを題材に、デジタルデータの長期保存と秘密の守り方を検証する。microSDを鍾乳石に隠す方法の問題点を指摘し、データをAES-256-GCMで暗号化して分散保存し、32バイトの鍵だけを別に守る設計を提案する。</description>
+    </item>
+
+    <item>
+      <title>開発ツールをひとつにまとめる！ Vite+入門</title>
+      <link>https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 25 Nov 2026 10:09:53 GMT</pubDate>
+      <description>開発ツールをひとつに統合するVite+の入門記事。</description>
+    </item>
+
+    <item>
+      <title>Modern Web Guidance 1.0：コーディングエージェントに欠けていたWebプラットフォームの専門知識</title>
+      <link>https://developer.chrome.com/blog/modern-web-guidance-v1</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/modern-web-guidance-v1</guid>
+      <pubDate>Wed, 25 Nov 2026 10:08:53 GMT</pubDate>
+      <description>コーディングエージェントにWebプラットフォームの専門知識・ベストプラクティス・ブラウザ互換性データを組み込むスキル集「Modern Web Guidance」が1.0として安定版に到達。既存コードを走査してモダン化の機会を見つける新ワークフロー、数百の検証済み知識ギャップを対象とするガイド拡充、全ガイドの評価カバレッジが追加された。FirefoxとEdgeも参加し、クロスブラウザの取り組みになっている。</description>
+    </item>
+
+    <item>
+      <title>noteがModern Web GuidanceでWebガイドライン準拠率を61%から94%へ引き上げた事例</title>
+      <link>https://developer.chrome.com/blog/mwg-with-internal-component</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/mwg-with-internal-component</guid>
+      <pubDate>Wed, 25 Nov 2026 10:07:53 GMT</pubDate>
+      <description>noteがAIコーディング支援にModern Web Guidanceを導入し、実コードベースのクローンで6つのUIシナリオ×180回の運用評価を実施。ガイドなしでは60.8%だったWeb標準準拠率が、明示的な指示ありで94.0%まで上昇。スクロール連動ヘッダーをCSSスクロール駆動アニメーションに、ツールチップをPopover APIに、FAQアコーディオンを&lt;details&gt;に置き換えるなど、ネイティブ機能への置き換えが進んだ。</description>
+    </item>
+
+    <item>
+      <title>@json-render/chat で AI が組み立てたカードを Slack に投稿する</title>
+      <link>https://azukiazusa.dev/blog/json-render-chat-slack</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/json-render-chat-slack</guid>
+      <pubDate>Wed, 25 Nov 2026 10:06:53 GMT</pubDate>
+      <description>LLM にテーブルやグラフを含むチャットのメッセージを作らせる方法として、@json-render/chat はカタログから AI に部品を選ばせた Spec を Chat SDK のカードに変換し、Slack では Block Kit として投稿する。記事では Slack ボットを実装し、リッチなメッセージが投稿されるまでの流れを紹介している。</description>
+    </item>
+
+    <item>
+      <title>Capability Elements をアイコンだけで表示する `displaymode="icon-only"`</title>
+      <link>https://azukiazusa.dev/blog/capability-elements-icon-only</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/capability-elements-icon-only</guid>
+      <pubDate>Wed, 25 Nov 2026 10:05:53 GMT</pubDate>
+      <description>Chrome が &lt;select&gt; などの Capability Elements をテキストなしのアイコンボタンとして描画する displaymode="icon-only" 属性を実装した。記事ではこの属性の使い方を紹介している。</description>
+    </item>
 
     <item>
       <title>FigmaのAI画像編集ツールで、オブジェクトをさらに素早く選択できます</title>
