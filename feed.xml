@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>web-develop-news</title>
-    <link>https://github.com/namosuke/web-develop-news</link>
+    <title>Web Develop Feed</title>
+    <link>https://github.com/namosuke/web-develop-feed</link>
     <description>AI RSS リーダーのシェア欄から自動生成</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 07:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:30:23 GMT</lastBuildDate>
     <image>
-      <url>https://namosuke.github.io/web-develop-news/icon.png</url>
-      <title>web-develop-news</title>
-      <link>https://github.com/namosuke/web-develop-news</link>
+      <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
+      <title>Web Develop Feed</title>
+      <link>https://github.com/namosuke/web-develop-feed</link>
     </image>
 
   </channel>
