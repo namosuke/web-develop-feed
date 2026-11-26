@@ -5,12 +5,92 @@
     <link>https://github.com/namosuke/web-develop-feed</link>
     <description>Web開発まわりの注目記事をキュレーションしたフィード。各記事に日本語の要約が付いています。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:01:37 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
       <title>Web Develop Feed</title>
       <link>https://github.com/namosuke/web-develop-feed</link>
     </image>
+
+    <item>
+      <title>Dev ModeでFigmaエージェントを使用する</title>
+      <link>https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpwork-with-the-figma-agent-in-dev-mode</link>
+      <guid isPermaLink="true">https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpwork-with-the-figma-agent-in-dev-mode</guid>
+      <pubDate>Thu, 26 Nov 2026 00:43:47 GMT</pubDate>
+      <description>Dev ModeからFigmaエージェントをプロンプトできるようになった。デザインを点検して理解させたり、バージョンを比較したり、コードスニペットを求めたり、アセットを一括ダウンロードするためのリンクを取得したりできる。</description>
+    </item>
+
+    <item>
+      <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+      <link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid>
+      <pubDate>Thu, 26 Nov 2026 00:40:02 GMT</pubDate>
+      <description>AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」を提供開始（Ignite 2026）。</description>
+    </item>
+
+    <item>
+      <title>「能動的サイバー防御」と「サイバー対処能力強化法」は何であって・何でないか</title>
+      <link>https://blog.jxck.io/entries/2026-11-18/active-cyber-defense.html</link>
+      <guid isPermaLink="true">https://blog.jxck.io/entries/2026-11-18/active-cyber-defense.html</guid>
+      <pubDate>Thu, 26 Nov 2026 00:37:26 GMT</pubDate>
+      <description>施行された「サイバー対処能力強化法」と能動的サイバー防御、国家サイバー統括室を含めた制度の全体像を解説。</description>
+    </item>
+
+    <item>
+      <title>Gemini in Chromeでエージェントスキルを構築・インポート</title>
+      <link>https://developer.chrome.com/blog/skills-in-gemini-in-chrome</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/skills-in-gemini-in-chrome</guid>
+      <pubDate>Thu, 26 Nov 2026 01:07:28 GMT</pubDate>
+      <description>Chrome 157からGemini in ChromeがSKILL.md形式のエージェントスキルに対応し、他ツールのスキルもインポート可能に。chrome://skillsで作成・編集・ダウンロードができる。</description>
+    </item>
+
+    <item>
+      <title>Cross-Origin Storage API の紹介</title>
+      <link>https://developer.chrome.com/blog/introducing-cross-origin-storage</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/introducing-cross-origin-storage</guid>
+      <pubDate>Thu, 26 Nov 2026 01:06:28 GMT</pubDate>
+      <description>同一のアセットを複数のサイトで共有できる Cross-Origin Storage API（COS）の提案を紹介する記事。コンテンツをハッシュで指定し、任意の URL から取得してサイトをまたいで共有する。AI モデルや Wasm、ゲームエンジン、大規模フォントなどの共有がユースケースとして挙げられている。</description>
+    </item>
+
+    <item>
+      <title>空間 CSS の紹介：開発者プレビュー</title>
+      <link>https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/</link>
+      <guid isPermaLink="true">https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/</guid>
+      <pubDate>Thu, 26 Nov 2026 01:05:28 GMT</pubDate>
+      <description>visionOS 27.3 向け Safari に、提案中の空間 CSS API の限定プレビューが搭載される。&lt;model&gt; 要素を通じて 3D オブジェクトを扱うことが中心。</description>
+    </item>
+
+    <item>
+      <title>SeznamはパスキーとRelated Origin Requestsで複数ドメインのサインインをどう統合したか</title>
+      <link>https://developer.chrome.com/blog/seznam-defragments-sign-in</link>
+      <guid isPermaLink="true">https://developer.chrome.com/blog/seznam-defragments-sign-in</guid>
+      <pubDate>Thu, 26 Nov 2026 01:04:28 GMT</pubDate>
+      <description>チェコのSeznamが、FedCMとWebAuthn Related Origin Requestsを使い複数ドメインにまたがるサインインを統合した事例。1つのドメインで作ったパスキーが他ドメインでも使え、サインイン完了率が大きく改善した。</description>
+    </item>
+
+    <item>
+      <title>AWS Emulator で AWS SDK を使うコードをローカルでテストする</title>
+      <link>https://azukiazusa.dev/blog/aws-emulator-local-testing</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/aws-emulator-local-testing</guid>
+      <pubDate>Thu, 26 Nov 2026 01:03:28 GMT</pubDate>
+      <description>AWS公式のAWS Emulatorを使い、AWS SDK for JavaScript v3 + DynamoDBのコードをVitestでローカルテストする手順。Dockerで起動する。</description>
+    </item>
+
+    <item>
+      <title>Apple HomeView での Safari</title>
+      <link>https://webkit.org/blog/18608/safari-on-apple-homeview/</link>
+      <guid isPermaLink="true">https://webkit.org/blog/18608/safari-on-apple-homeview/</guid>
+      <pubDate>Thu, 26 Nov 2026 01:02:28 GMT</pubDate>
+      <description>Safari がまったく新しいプラットフォーム「Apple HomeView」で動き始めたことを伝える記事。</description>
+    </item>
+
+    <item>
+      <title>エージェントが作り、エージェントが使う Vercel の UI SDK</title>
+      <link>https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</guid>
+      <pubDate>Thu, 26 Nov 2026 01:01:28 GMT</pubDate>
+      <description>Vercel Labs が公開した UI SDK は、キーボード操作やフォーカス、ARIA などの振る舞いをフレームワーク非依存で提供するヘッドレス UI ライブラリ。AI エージェントをコンポーネントの作り手と UI の使い手の両方として扱う点が特徴で、記事では Claude Code にトランスファーリストを作らせ、エージェントブリッジから操作するまでを確認している。</description>
+    </item>
 
     <item>
       <title>3DでのデザインをFigmaでネイティブに行い、直接コードにリリース</title>
