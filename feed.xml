@@ -5,7 +5,7 @@
     <link>https://github.com/namosuke/web-develop-feed</link>
     <description>Web開発まわりの注目記事をキュレーションしたフィード。各記事に日本語の要約が付いています。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:59:07 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
       <title>Web Develop Feed</title>
@@ -40,7 +40,7 @@
       <title>Gemini in Chromeでエージェントスキルを構築・インポート</title>
       <link>https://developer.chrome.com/blog/skills-in-gemini-in-chrome</link>
       <guid isPermaLink="true">https://developer.chrome.com/blog/skills-in-gemini-in-chrome</guid>
-      <pubDate>Thu, 26 Nov 2026 01:07:28 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:37:01 GMT</pubDate>
       <description>Chrome 157からGemini in ChromeがSKILL.md形式のエージェントスキルに対応し、他ツールのスキルもインポート可能に。chrome://skillsで作成・編集・ダウンロードができる。</description>
     </item>
 
@@ -48,7 +48,7 @@
       <title>Cross-Origin Storage API の紹介</title>
       <link>https://developer.chrome.com/blog/introducing-cross-origin-storage</link>
       <guid isPermaLink="true">https://developer.chrome.com/blog/introducing-cross-origin-storage</guid>
-      <pubDate>Thu, 26 Nov 2026 01:06:28 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:35:12 GMT</pubDate>
       <description>同一のアセットを複数のサイトで共有できる Cross-Origin Storage API（COS）の提案を紹介する記事。コンテンツをハッシュで指定し、任意の URL から取得してサイトをまたいで共有する。AI モデルや Wasm、ゲームエンジン、大規模フォントなどの共有がユースケースとして挙げられている。</description>
     </item>
 
@@ -56,7 +56,7 @@
       <title>空間 CSS の紹介：開発者プレビュー</title>
       <link>https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/</link>
       <guid isPermaLink="true">https://webkit.org/blog/18621/introducing-spatial-css-a-developer-preview/</guid>
-      <pubDate>Thu, 26 Nov 2026 01:05:28 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 13:20:09 GMT</pubDate>
       <description>visionOS 27.3 向け Safari に、提案中の空間 CSS API の限定プレビューが搭載される。&lt;model&gt; 要素を通じて 3D オブジェクトを扱うことが中心。</description>
     </item>
 
@@ -64,7 +64,7 @@
       <title>SeznamはパスキーとRelated Origin Requestsで複数ドメインのサインインをどう統合したか</title>
       <link>https://developer.chrome.com/blog/seznam-defragments-sign-in</link>
       <guid isPermaLink="true">https://developer.chrome.com/blog/seznam-defragments-sign-in</guid>
-      <pubDate>Thu, 26 Nov 2026 01:04:28 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 13:16:54 GMT</pubDate>
       <description>チェコのSeznamが、FedCMとWebAuthn Related Origin Requestsを使い複数ドメインにまたがるサインインを統合した事例。1つのドメインで作ったパスキーが他ドメインでも使え、サインイン完了率が大きく改善した。</description>
     </item>
 
@@ -72,7 +72,7 @@
       <title>AWS Emulator で AWS SDK を使うコードをローカルでテストする</title>
       <link>https://azukiazusa.dev/blog/aws-emulator-local-testing</link>
       <guid isPermaLink="true">https://azukiazusa.dev/blog/aws-emulator-local-testing</guid>
-      <pubDate>Thu, 26 Nov 2026 01:03:28 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 13:14:42 GMT</pubDate>
       <description>AWS公式のAWS Emulatorを使い、AWS SDK for JavaScript v3 + DynamoDBのコードをVitestでローカルテストする手順。Dockerで起動する。</description>
     </item>
 
@@ -80,7 +80,7 @@
       <title>Apple HomeView での Safari</title>
       <link>https://webkit.org/blog/18608/safari-on-apple-homeview/</link>
       <guid isPermaLink="true">https://webkit.org/blog/18608/safari-on-apple-homeview/</guid>
-      <pubDate>Thu, 26 Nov 2026 01:02:28 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 13:12:50 GMT</pubDate>
       <description>Safari がまったく新しいプラットフォーム「Apple HomeView」で動き始めたことを伝える記事。</description>
     </item>
 
@@ -88,7 +88,7 @@
       <title>エージェントが作り、エージェントが使う Vercel の UI SDK</title>
       <link>https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</link>
       <guid isPermaLink="true">https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</guid>
-      <pubDate>Thu, 26 Nov 2026 01:01:28 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 13:11:02 GMT</pubDate>
       <description>Vercel Labs が公開した UI SDK は、キーボード操作やフォーカス、ARIA などの振る舞いをフレームワーク非依存で提供するヘッドレス UI ライブラリ。AI エージェントをコンポーネントの作り手と UI の使い手の両方として扱う点が特徴で、記事では Claude Code にトランスファーリストを作らせ、エージェントブリッジから操作するまでを確認している。</description>
     </item>
 
@@ -96,7 +96,7 @@
       <title>3DでのデザインをFigmaでネイティブに行い、直接コードにリリース</title>
       <link>https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpdesign-in-3d-natively-in-figma-and-ship-directly-to-code</link>
       <guid isPermaLink="true">https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpdesign-in-3d-natively-in-figma-and-ship-directly-to-code</guid>
-      <pubDate>Wed, 25 Nov 2026 10:11:53 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 12:37:10 GMT</pubDate>
       <description>Figmaの3Dトランスフォームで、キャンバス上でオブジェクトをXYZ軸に回転させ、そのままコードにリリースできる新エフェクト。</description>
     </item>
 
@@ -104,7 +104,7 @@
       <title>核融合データの正しい隠し方</title>
       <link>https://blog.jxck.io/entries/2026-11-11/vivant.html</link>
       <guid isPermaLink="true">https://blog.jxck.io/entries/2026-11-11/vivant.html</guid>
-      <pubDate>Wed, 25 Nov 2026 10:10:53 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 12:08:14 GMT</pubDate>
       <description>ドラマ『VIVANT』の核融合データをめぐる隠匿シーンを題材に、デジタルデータの長期保存と秘密の守り方を検証する。microSDを鍾乳石に隠す方法の問題点を指摘し、データをAES-256-GCMで暗号化して分散保存し、32バイトの鍵だけを別に守る設計を提案する。</description>
     </item>
 
@@ -112,7 +112,7 @@
       <title>開発ツールをひとつにまとめる！ Vite+入門</title>
       <link>https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
-      <pubDate>Wed, 25 Nov 2026 10:09:53 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 12:02:57 GMT</pubDate>
       <description>開発ツールをひとつに統合するVite+の入門記事。</description>
     </item>
 
@@ -120,7 +120,7 @@
       <title>Modern Web Guidance 1.0：コーディングエージェントに欠けていたWebプラットフォームの専門知識</title>
       <link>https://developer.chrome.com/blog/modern-web-guidance-v1</link>
       <guid isPermaLink="true">https://developer.chrome.com/blog/modern-web-guidance-v1</guid>
-      <pubDate>Wed, 25 Nov 2026 10:08:53 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 12:01:36 GMT</pubDate>
       <description>コーディングエージェントにWebプラットフォームの専門知識・ベストプラクティス・ブラウザ互換性データを組み込むスキル集「Modern Web Guidance」が1.0として安定版に到達。既存コードを走査してモダン化の機会を見つける新ワークフロー、数百の検証済み知識ギャップを対象とするガイド拡充、全ガイドの評価カバレッジが追加された。FirefoxとEdgeも参加し、クロスブラウザの取り組みになっている。</description>
     </item>
 
@@ -128,7 +128,7 @@
       <title>noteがModern Web GuidanceでWebガイドライン準拠率を61%から94%へ引き上げた事例</title>
       <link>https://developer.chrome.com/blog/mwg-with-internal-component</link>
       <guid isPermaLink="true">https://developer.chrome.com/blog/mwg-with-internal-component</guid>
-      <pubDate>Wed, 25 Nov 2026 10:07:53 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 12:01:22 GMT</pubDate>
       <description>noteがAIコーディング支援にModern Web Guidanceを導入し、実コードベースのクローンで6つのUIシナリオ×180回の運用評価を実施。ガイドなしでは60.8%だったWeb標準準拠率が、明示的な指示ありで94.0%まで上昇。スクロール連動ヘッダーをCSSスクロール駆動アニメーションに、ツールチップをPopover APIに、FAQアコーディオンを&lt;details&gt;に置き換えるなど、ネイティブ機能への置き換えが進んだ。</description>
     </item>
 
@@ -136,7 +136,7 @@
       <title>@json-render/chat で AI が組み立てたカードを Slack に投稿する</title>
       <link>https://azukiazusa.dev/blog/json-render-chat-slack</link>
       <guid isPermaLink="true">https://azukiazusa.dev/blog/json-render-chat-slack</guid>
-      <pubDate>Wed, 25 Nov 2026 10:06:53 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 09:17:26 GMT</pubDate>
       <description>LLM にテーブルやグラフを含むチャットのメッセージを作らせる方法として、@json-render/chat はカタログから AI に部品を選ばせた Spec を Chat SDK のカードに変換し、Slack では Block Kit として投稿する。記事では Slack ボットを実装し、リッチなメッセージが投稿されるまでの流れを紹介している。</description>
     </item>
 
@@ -144,7 +144,7 @@
       <title>Capability Elements をアイコンだけで表示する `displaymode="icon-only"`</title>
       <link>https://azukiazusa.dev/blog/capability-elements-icon-only</link>
       <guid isPermaLink="true">https://azukiazusa.dev/blog/capability-elements-icon-only</guid>
-      <pubDate>Wed, 25 Nov 2026 10:05:53 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 16:21:16 GMT</pubDate>
       <description>Chrome が &lt;select&gt; などの Capability Elements をテキストなしのアイコンボタンとして描画する displaymode="icon-only" 属性を実装した。記事ではこの属性の使い方を紹介している。</description>
     </item>
 
@@ -152,7 +152,7 @@
       <title>FigmaのAI画像編集ツールで、オブジェクトをさらに素早く選択できます</title>
       <link>https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpselect-objects-even-faster-with-figmas-ai-image-editing-tools</link>
       <guid isPermaLink="true">https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpselect-objects-even-faster-with-figmas-ai-image-editing-tools</guid>
-      <pubDate>Wed, 25 Nov 2026 08:47:01 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 16:18:27 GMT</pubDate>
       <description>AI画像編集ツール「領域を選択」で、画像内のオブジェクトをクリックするだけで選択・分離・消去できるようになった。手でトレースする必要がなくなる。macOSデスクトップアプリのみで利用可能。</description>
     </item>
 
@@ -160,7 +160,7 @@
       <title>タイポグラフィを飼いならす：モダンCSSリセットを作る</title>
       <link>https://css-tricks.com/taming-typography-modern-css-reset/</link>
       <guid isPermaLink="true">https://css-tricks.com/taming-typography-modern-css-reset/</guid>
-      <pubDate>Wed, 25 Nov 2026 08:46:01 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 16:17:13 GMT</pubDate>
       <description>流動タイポグラフィや垂直リズム、ハイフネーション、可変フォントなど、モダンCSSの機能を使ったタイポグラフィ用のスタイルリセット「tidy-typography.css」の紹介。</description>
     </item>
 
@@ -168,7 +168,7 @@
       <title>Node.js 26から27（Alpha）での注目すべきV8の変更点</title>
       <link>https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha</link>
       <guid isPermaLink="true">https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha</guid>
-      <pubDate>Wed, 25 Nov 2026 08:45:01 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 16:16:24 GMT</pubDate>
       <description>Node.js 27 Alpha で V8 が 14.6 から 15.6 に上がったことに伴う、注目すべき変更点の解説。新たに Math.sumPrecise()、Intl.Locale.prototype.variants、Iterator.prototype.join() / includes() / zip() / zipKeyed() が使えるようになった。一方で、Math の計算結果が最下位ビットで変わる、Math.random() の系列が変わる、structuredClone() と postMessage() のシリアライズ形式が変わり旧バージョンと互換性がなくなる、Array.prototype.sort() の内部アルゴリズム変更など、挙動が変わる点も多い。</description>
     </item>
 
@@ -176,7 +176,7 @@
       <title>CSSだけで横スクロールと見出し固定を両立！ 単一軸スクロールコンテナー</title>
       <link>https://ics.media/entry/261104/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://ics.media/entry/261104/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
-      <pubDate>Wed, 25 Nov 2026 08:44:01 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 16:13:06 GMT</pubDate>
       <description>CSSだけで横スクロールと見出し固定を両立する、単一軸スクロールコンテナーの実装解説。</description>
     </item>
 
@@ -184,7 +184,7 @@
       <title>Chrome 157でHTML-in-Canvasが安定版に：2D・WebGL・WebGPU内にインタラクティブなDOMを描画</title>
       <link>https://developer.chrome.com/blog/html-in-canvas</link>
       <guid isPermaLink="true">https://developer.chrome.com/blog/html-in-canvas</guid>
-      <pubDate>Wed, 25 Nov 2026 08:43:01 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 09:57:35 GMT</pubDate>
       <description>Chrome 157でHTML-in-Canvas APIが安定版になった。canvas要素の子孫として置いたHTMLをそのまま描画でき、テキスト選択、コピー&amp;ペースト、右クリックメニュー、スクリーンリーダー対応、翻訳、自動入力、Find-in-Pageなどがcanvas内のコンテンツでもそのまま使える。2DコンテキストではdrawElementなどで描画し、WebGL/WebGPUではupdateElementGeometryでDOMの幾何を渡す。Three.js、PlayCanvas、Babylon.js、PixiJSがすでに対応している。</description>
     </item>
 
@@ -192,7 +192,7 @@
       <title>AI エージェントがデスクトップアプリを操作する CLI agent-desktop</title>
       <link>https://azukiazusa.dev/blog/agent-desktop-computer-use-cli</link>
       <guid isPermaLink="true">https://azukiazusa.dev/blog/agent-desktop-computer-use-cli</guid>
-      <pubDate>Wed, 25 Nov 2026 08:42:01 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 05:11:00 GMT</pubDate>
       <description>agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作する。記事では基本的な使い方の確認に加え、SwiftUI 製の架空の経費アプリの動作確認を Claude Code に任せ、バグ発見から修正までを実行させている。</description>
     </item>
 
@@ -200,7 +200,7 @@
       <title>Cybozu Frontend Monthly #73</title>
       <link>https://cybozu.github.io/frontend-monthly/posts/2026-11/</link>
       <guid isPermaLink="true">https://cybozu.github.io/frontend-monthly/posts/2026-11/</guid>
-      <pubDate>Wed, 25 Nov 2026 08:41:01 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
       <description>注目記事は3本：Oxlintの型-aware lintingのバックエンドに使えるようになったtsrs（TypeScriptのRust移植）による高速化、State of JavaScript 2026のサーベイ開始、Chromeが実験中のDecisions API（端末上のモデルが用意された選択肢から1つを選ぶ仕組み）。リンク集ではReact DevTools for agents、TanStack Redact、pnpm 12.21のlockfile形式変更、Arcの提供終了（2026年内）、State of HTML 2026、Cross-Origin Storage APIなどが紹介されている。</description>
     </item>
 
