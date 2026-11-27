@@ -5,12 +5,36 @@
     <link>https://github.com/namosuke/web-develop-feed</link>
     <description>Web開発まわりの注目記事をキュレーションしたフィード。各記事に日本語の要約が付いています。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 02:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:01:33 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
       <title>Web Develop Feed</title>
       <link>https://github.com/namosuke/web-develop-feed</link>
     </image>
+
+    <item>
+      <title>DOMのコスト</title>
+      <link>https://speakerdeck.com/ypresto/the-cost-of-the-dom</link>
+      <guid isPermaLink="true">https://speakerdeck.com/ypresto/the-cost-of-the-dom</guid>
+      <pubDate>Fri, 27 Nov 2026 00:46:57 GMT</pubDate>
+      <description>jsdom/happy-domによるDOMエミュレーションとVitest Browser Mode（実ブラウザ）の速度と正確さを、大規模テストで実測比較した43枚の資料。Mantine（218ファイル・10,191テスト）とReact Aria（188ファイル・3,391テスト）で計測し、実時間はBrowser Modeがjsdomの1.2〜2.3倍だが、CPU時間の差は小さく、差の大半は待ち時間。click 1回あたり約50msの内訳や、ChromiumのDeferRendererTasksAfterInputフラグを変えるとReact Ariaが24%速くなった検証も紹介する。</description>
+    </item>
+
+    <item>
+      <title>Reactはここまで変わった！ メモ化・Effect・アニメーションの最新事情</title>
+      <link>https://ics.media/entry/261119/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://ics.media/entry/261119/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
+      <pubDate>Fri, 27 Nov 2026 00:31:21 GMT</pubDate>
+      <description>React 19.3で安定版になった&lt;ViewTransition&gt;、React Compilerによるメモ化の自動化、useEffectEventによるEffectの再実行制御、React 19.2のパフォーマンストラックなど、開発時に役立つReactの新機能を実例付きで紹介する続編記事。</description>
+    </item>
+
+    <item>
+      <title>Webメール開発を大幅に変えたJMAPというゲームチェンジャー (Wataru Morita)</title>
+      <link>https://speakerdeck.com/tascript/jmap-is-game-changer</link>
+      <guid isPermaLink="true">https://speakerdeck.com/tascript/jmap-is-game-changer</guid>
+      <pubDate>Thu, 26 Nov 2026 16:56:09 GMT</pubDate>
+      <description>JSConf JP 2026の登壇資料。IMAPの課題（複雑な仕様、ステートフルな状態管理、独自パーサーの必要性）に対し、JSONベースのJMAPがHTTP API・複数メソッドの一括呼び出し・構造化データでWebメール開発をどう変えるかを解説。JMAP over WebSocketによるリアルタイム同期、IndexedDBを使ったキャッシュとオフライン対応、Thread構造を活かしたAI機能（要約・セマンティック検索）まで、さくらインターネットの実践を交えて紹介する。</description>
+    </item>
 
     <item>
       <title>Dev ModeでFigmaエージェントを使用する</title>
@@ -113,7 +137,7 @@
       <link>https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
       <pubDate>Mon, 23 Nov 2026 12:02:57 GMT</pubDate>
-      <description>開発ツールをひとつに統合するVite+の入門記事。</description>
+      <description></description>
     </item>
 
     <item>
@@ -177,7 +201,7 @@
       <link>https://ics.media/entry/261104/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://ics.media/entry/261104/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
       <pubDate>Sun, 22 Nov 2026 16:13:06 GMT</pubDate>
-      <description>CSSだけで横スクロールと見出し固定を両立する、単一軸スクロールコンテナーの実装解説。</description>
+      <description></description>
     </item>
 
     <item>
