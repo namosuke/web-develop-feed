@@ -5,12 +5,28 @@
     <link>https://github.com/namosuke/web-develop-feed</link>
     <description>Web開発まわりの注目記事をキュレーションしたフィード。各記事に日本語の要約が付いています。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 00:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:59:56 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
       <title>Web Develop Feed</title>
       <link>https://github.com/namosuke/web-develop-feed</link>
     </image>
+
+    <item>
+      <title>JPEG XLへようこそ</title>
+      <link>https://speakerdeck.com/dynamis/welcome-jxl</link>
+      <guid isPermaLink="true">https://speakerdeck.com/dynamis/welcome-jxl</guid>
+      <pubDate>Sat, 28 Nov 2026 06:16:26 GMT</pubDate>
+      <description>JPEG XL（JXL）の歴史とブラウザ対応の現状をたどるライトニングトーク。2026年10月にChrome 155とFirefox 158でJPEG XLが正式対応となり、Rust製デコーダ（jxl-rs）の採用や画像コーデックのRust化の流れも紹介する。Safari 17での対応、Chromeでの一度の撤去と復活の経緯なども含む。</description>
+    </item>
+
+    <item>
+      <title>AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達</title>
+      <link>https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html</link>
+      <guid isPermaLink="true">https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html</guid>
+      <pubDate>Sat, 28 Nov 2026 05:26:52 GMT</pubDate>
+      <description>AWSが、NoSQLデータベース「Amazon DynamoDB」と互換性のあるオープンソースデータベース「ExtendDB」のバージョン1.0をリリース。Windows、Linux、macOSに対応し、ユーザーのローカルマシンでDynamoDB互換のデータベースを構築できる。</description>
+    </item>
 
     <item>
       <title>DOMのコスト</title>
