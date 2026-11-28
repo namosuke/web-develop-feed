@@ -5,7 +5,7 @@
     <link>https://github.com/namosuke/web-develop-feed</link>
     <description>Web開発まわりの注目記事をキュレーションしたフィード。各記事に日本語の要約が付いています。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 00:59:07 GMT</lastBuildDate>
     <image>
       <url>https://namosuke.github.io/web-develop-feed/icon.png</url>
       <title>Web Develop Feed</title>
@@ -109,14 +109,6 @@
     </item>
 
     <item>
-      <title>エージェントが作り、エージェントが使う Vercel の UI SDK</title>
-      <link>https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</link>
-      <guid isPermaLink="true">https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</guid>
-      <pubDate>Mon, 23 Nov 2026 13:11:02 GMT</pubDate>
-      <description>Vercel Labs が公開した UI SDK は、キーボード操作やフォーカス、ARIA などの振る舞いをフレームワーク非依存で提供するヘッドレス UI ライブラリ。AI エージェントをコンポーネントの作り手と UI の使い手の両方として扱う点が特徴で、記事では Claude Code にトランスファーリストを作らせ、エージェントブリッジから操作するまでを確認している。</description>
-    </item>
-
-    <item>
       <title>3DでのデザインをFigmaでネイティブに行い、直接コードにリリース</title>
       <link>https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpdesign-in-3d-natively-in-figma-and-ship-directly-to-code</link>
       <guid isPermaLink="true">https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpdesign-in-3d-natively-in-figma-and-ship-directly-to-code</guid>
@@ -130,14 +122,6 @@
       <guid isPermaLink="true">https://blog.jxck.io/entries/2026-11-11/vivant.html</guid>
       <pubDate>Mon, 23 Nov 2026 12:08:14 GMT</pubDate>
       <description>ドラマ『VIVANT』の核融合データをめぐる隠匿シーンを題材に、デジタルデータの長期保存と秘密の守り方を検証する。microSDを鍾乳石に隠す方法の問題点を指摘し、データをAES-256-GCMで暗号化して分散保存し、32バイトの鍵だけを別に守る設計を提案する。</description>
-    </item>
-
-    <item>
-      <title>開発ツールをひとつにまとめる！ Vite+入門</title>
-      <link>https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 23 Nov 2026 12:02:57 GMT</pubDate>
-      <description></description>
     </item>
 
     <item>
@@ -165,6 +149,14 @@
     </item>
 
     <item>
+      <title>エージェントが作り、エージェントが使う Vercel の UI SDK</title>
+      <link>https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</link>
+      <guid isPermaLink="true">https://azukiazusa.dev/blog/ui-sdk-agent-ready-behaviors</guid>
+      <pubDate>Sun, 22 Nov 2026 16:21:16 GMT</pubDate>
+      <description>Vercel Labs が公開した UI SDK は、キーボード操作やフォーカス、ARIA などの振る舞いをフレームワーク非依存で提供するヘッドレス UI ライブラリ。AI エージェントをコンポーネントの作り手と UI の使い手の両方として扱う点が特徴で、記事では Claude Code にトランスファーリストを作らせ、エージェントブリッジから操作するまでを確認している。</description>
+    </item>
+
+    <item>
       <title>Capability Elements をアイコンだけで表示する `displaymode="icon-only"`</title>
       <link>https://azukiazusa.dev/blog/capability-elements-icon-only</link>
       <guid isPermaLink="true">https://azukiazusa.dev/blog/capability-elements-icon-only</guid>
@@ -177,7 +169,7 @@
       <link>https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpselect-objects-even-faster-with-figmas-ai-image-editing-tools</link>
       <guid isPermaLink="true">https://www.figma.com/ja-jp/release-notes/?title=%2Fja-jpselect-objects-even-faster-with-figmas-ai-image-editing-tools</guid>
       <pubDate>Sun, 22 Nov 2026 16:18:27 GMT</pubDate>
-      <description>AI画像編集ツール「領域を選択」で、画像内のオブジェクトをクリックするだけで選択・分離・消去できるようになった。手でトレースする必要がなくなる。macOSデスクトップアプリのみで利用可能。</description>
+      <description>FigmaのAI画像編集ツール「領域を選択」で、画像内のオブジェクトをクリックするだけで選択・分離・消去できるようになった。手でトレースする必要がなくなる。macOSデスクトップアプリのみで利用可能。</description>
     </item>
 
     <item>
@@ -194,6 +186,14 @@
       <guid isPermaLink="true">https://nodejs.org/en/blog/announcements/notable-v8-changes-from-node-js-26-to-27-alpha</guid>
       <pubDate>Sun, 22 Nov 2026 16:16:24 GMT</pubDate>
       <description>Node.js 27 Alpha で V8 が 14.6 から 15.6 に上がったことに伴う、注目すべき変更点の解説。新たに Math.sumPrecise()、Intl.Locale.prototype.variants、Iterator.prototype.join() / includes() / zip() / zipKeyed() が使えるようになった。一方で、Math の計算結果が最下位ビットで変わる、Math.random() の系列が変わる、structuredClone() と postMessage() のシリアライズ形式が変わり旧バージョンと互換性がなくなる、Array.prototype.sort() の内部アルゴリズム変更など、挙動が変わる点も多い。</description>
+    </item>
+
+    <item>
+      <title>開発ツールをひとつにまとめる！ Vite+入門</title>
+      <link>https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://ics.media/entry/261111/?utm_source=atom&amp;utm_medium=referral&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 22 Nov 2026 16:13:06 GMT</pubDate>
+      <description></description>
     </item>
 
     <item>
